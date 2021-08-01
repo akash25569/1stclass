@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* this is paragraph tag */
+
+
+.joba{
+    font-size: 36px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    line-height: 150px;
+}
+
+#formula{
+    font-family: Cursive;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.algebra{
+    color: #ff4f4f;
+    font-size: 100px;
+    background: #ff0
+}
